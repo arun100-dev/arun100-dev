@@ -1,16 +1,19 @@
-## Hi there 👋
+Hi, I'm Arun Sharma👋
+Backend-focused Full Stack Developer (MERN)
 
-<!--
-**arun100-dev/arun100-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔹 Strong in: Node.js, Express, MongoDB
+🔹 Interested in: System Design, Distributed Systems
+🔹 Built: Medicine Companion – Elderly Safety Platform
+🔹 Currently Learning: Low-level Systems
 
-Here are some ideas to get you started:
+Tech Stack:
+- JavaScript / TypeScript
+- React
+- Node.js
+- MongoDB
+- REST APIs
+- JWT Authentication
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Projects:
+🚀 Medicine Companion ([Live Link](https://hackathon-project-1qb7.onrender.com/))
+🎬 QuickShow – Movie Booking Platform
