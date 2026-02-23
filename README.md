@@ -1,59 +1,67 @@
 👋 Hi, I'm Arun Sharma
 
-Software Development Engineer
-Full-Stack Developer with strong fundamentals in Data Structures and Backend Development.
+💻 Software Development Engineer
+Full-Stack Developer with strong foundations in Data Structures, Backend Engineering, and System-Oriented Thinking.
 
 💼 About Me
 
-🎓 B.Tech in Computer Science
+🎓 B.Tech in Electronics and Communication
 
-💻 Built full-stack applications using the MERN stack
+I build scalable full-stack applications with a strong focus on backend architecture, authentication systems, and clean code structure.
 
-🧠 Strong understanding of DSA and core CS subjects
+🔧 Experienced with the MERN stack (React, Node.js, Express, MongoDB)
 
-⚙️ Interested in backend systems, scalable APIs, and clean architecture
+🧠 Strong grasp of Data Structures & Algorithms
 
-As a fresher, I focus on strengthening fundamentals, writing clean code, and understanding how real-world systems are designed.
+⚙️ Interested in scalable backend systems and REST API design
+
+📚 Continuously improving system design and performance fundamentals
+
+As a fresher, I focus on understanding how systems work internally, not just how to build features.
 
 🚀 Projects
-💊 Medicine Companion – Medication Management System
+💊 Medicine Companion – Medication Adherence Platform
 
-A full-stack web application that helps users manage medicines safely with adherence tracking.
+A full-stack web application designed to help users manage medicines safely with structured scheduling and adherence tracking.
 
-Tech: React, Node.js, Express, MongoDB
+Tech Stack: React | Node.js | Express | MongoDB
 
-Key Learnings
+Engineering Highlights
 
-Implemented JWT-based authentication
+Implemented stateless JWT authentication
 
-Designed MongoDB schemas and relationships
+Designed secure MongoDB schemas with relational modeling
 
-Built cron-based background logic for missed-dose detection
+Built cron-based background scheduler for missed-dose detection
 
-Structured backend using middleware and modular routing
+Applied middleware-based backend architecture
 
-Managed frontend state and routing using React
+Developed adherence tracking logic with weekly reporting
 
-This project helped me understand real-world backend architecture and security basics.
+Managed frontend routing and state using React Hooks & Context API
 
-🎬 QuickShow – Movie Booking Application
+This project strengthened my understanding of backend security, modular architecture, and real-world API structuring.
 
-A complete movie booking system with user and admin workflows.
+🎬 QuickShow – Movie Booking System
 
-Tech: React, Node.js, Express, MongoDB
+An end-to-end movie ticket booking application with user and admin workflows.
 
-Key Learnings
+Tech Stack: React | Node.js | Express | MongoDB
 
-Built role-based authentication system
+Engineering Highlights
 
-Designed seat selection and booking logic
+Built role-based authentication & protected routes
 
-Handled API requests and data validation
+Designed seat selection and booking validation logic
 
-Implemented protected routes in frontend
+Implemented RESTful APIs with proper data validation
+
+Structured frontend using reusable components
+
+Helped me understand user flows, access control, and backend-frontend synchronization.
 
 🧠 Technical Skills
-Programming Languages
+💻 Programming
 
 JavaScript
 
@@ -61,21 +69,23 @@ C++
 
 SQL
 
-Backend
+⚙️ Backend Engineering
 
 Node.js
 
 Express.js
 
-REST APIs
+REST API Design
 
 JWT Authentication
 
-Middleware
+Middleware Architecture
 
 MongoDB & Mongoose
 
-Frontend
+Basic Background Jobs (Cron Scheduling)
+
+🎨 Frontend Engineering
 
 React (Hooks)
 
@@ -85,32 +95,34 @@ React Router
 
 Tailwind CSS
 
-Core Subjects
+Component-Based Architecture
+
+📚 Computer Science Fundamentals
 
 Data Structures & Algorithms
 
-Operating Systems (basics)
+Operating Systems (process & memory basics)
 
-DBMS (normalization, indexing basics)
+DBMS (normalization, indexing concepts)
 
 Computer Networks (HTTP, TCP/IP fundamentals)
 
-📈 What I’m Working On
+📈 Currently Improving
 
-Improving problem-solving skills (DSA)
+Advanced DSA for coding interviews
 
-Learning System Design basics
+System Design fundamentals
 
-Building more scalable backend projects
+Writing more optimized and scalable backend logic
 
-Writing cleaner and more optimized code
+Building production-style projects
 
-🎯 Career Goal
+🎯 Career Objective
 
-To start my career as a Software Development Engineer where I can contribute to real-world products, learn from experienced engineers, and continuously improve my technical depth.
+To begin my career as a Software Development Engineer where I can contribute to real-world products, collaborate with experienced engineers, and continuously grow my technical depth in scalable system development.
 
 📫 Connect With Me
 
-LinkedIn: ([Link](https://www.linkedin.com/in/arun-sharma-1bb097318))
+🔗 LinkedIn: https://www.linkedin.com/in/arun-sharma-1bb097318
 
-Email: (janyalarun@gmail.com)
+📧 Email: janyalarun@gmail.com
