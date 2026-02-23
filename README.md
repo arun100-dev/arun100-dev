@@ -2,8 +2,11 @@ Hi, I'm Arun Sharma👋
 Backend-focused Full Stack Developer (MERN)
 
 🔹 Strong in: Node.js, Express, MongoDB
+
 🔹 Interested in: System Design, Distributed Systems
+
 🔹 Built: Medicine Companion – Elderly Safety Platform
+
 🔹 Currently Learning: Low-level Systems
 
 Tech Stack:
