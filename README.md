@@ -20,6 +20,7 @@ I build scalable full-stack applications with a strong focus on backend architec
 As a fresher, I focus on understanding how systems work internally, not just how to build features.
 
 🚀 Projects
+
 💊 Medicine Companion – Medication Adherence Platform
 
 A full-stack web application designed to help users manage medicines safely with structured scheduling and adherence tracking.
