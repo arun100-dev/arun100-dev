@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Arun%20Sharma&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Development%20Engineer%20%7C%20MERN%20Stack%20%7C%20Backend%20%26%20System%20Design&descAlignY=58&descColor=a78bfa&animation=fadeIn" />
+# 👋 Hi, I'm Arun Sharma
+### Software Development Engineer · MERN Stack · Backend & System Design
 
 </div>
 
@@ -129,9 +130,9 @@ I'm actively looking for **Software Development Engineer** opportunities (full-t
 
 ---
 
-<div align="center">
+---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" />
+<div align="center">
 
 *"Systems thinking, clean code, and a hunger to build — that's what I bring to every project."*
 
