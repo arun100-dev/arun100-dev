@@ -1,129 +1,138 @@
-👋 Hi, I'm Arun Sharma
+<div align="center">
 
-💻 Software Development Engineer
-Full-Stack Developer with strong foundations in Data Structures, Backend Engineering, and System-Oriented Thinking.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Arun%20Sharma&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Development%20Engineer%20%7C%20MERN%20Stack%20%7C%20Backend%20%26%20System%20Design&descAlignY=58&descColor=a78bfa&animation=fadeIn" />
 
-💼 About Me
+</div>
 
-🎓 B.Tech in Electronics and Communication
+<div align="center">
 
-I build scalable full-stack applications with a strong focus on backend architecture, authentication systems, and clean code structure.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arun%20Sharma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arun-sharma-1bb097318)
+[![Email](https://img.shields.io/badge/Email-janyalarun%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:janyalarun@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-arun100--dev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arun100-dev)
 
-🔧 Experienced with the MERN stack (React, Node.js, Express, MongoDB)
+</div>
 
-🧠 Strong grasp of Data Structures & Algorithms
+---
 
-⚙️ Interested in scalable backend systems and REST API design
+## 👨‍💻 About Me
 
-📚 Continuously improving system design and performance fundamentals
+> *"I don't just build features — I understand how systems work from the inside out."*
 
-As a fresher, I focus on understanding how systems work internally, not just how to build features.
+I'm a **Full-Stack Developer (MERN)** and **B.Tech graduate in Electronics & Communication** who is passionate about backend engineering, system design, and writing clean, scalable code.
 
-🚀 Projects
+- 🔭 I build production-style full-stack applications with a strong backend-first mindset
+- 🧠 Deep interest in **system internals** — not just what works, but *why* it works
+- ⚙️ Focused on **REST API design**, **authentication systems**, and **modular architecture**
+- 📐 Practising **DSA** and **System Design** daily for software engineering interviews
+- 🎯 Goal: Join a team where I can ship real products and grow alongside great engineers
 
-💊 Medicine Companion – Medication Adherence Platform
+---
 
-A full-stack web application designed to help users manage medicines safely with structured scheduling and adherence tracking.
+## 🛠️ Tech Stack
 
-Tech Stack: React | Node.js | Express | MongoDB
+### 💻 Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-Engineering Highlights
+### ⚙️ Backend Engineering
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-FF6B35?style=flat-square)
+![Cron Jobs](https://img.shields.io/badge/Cron%20Jobs-6D6D6D?style=flat-square)
 
-Implemented stateless JWT authentication
+### 🎨 Frontend Engineering
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Context API](https://img.shields.io/badge/Context%20API-61DAFB?style=flat-square&logo=react&logoColor=black)
+![React Router](https://img.shields.io/badge/React%20Router-CA4245?style=flat-square&logo=reactrouter&logoColor=white)
 
-Designed secure MongoDB schemas with relational modeling
+### 📚 CS Fundamentals
+![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-8B5CF6?style=flat-square)
+![DBMS](https://img.shields.io/badge/DBMS-4479A1?style=flat-square)
+![OS](https://img.shields.io/badge/Operating%20Systems-FFA500?style=flat-square)
+![Networks](https://img.shields.io/badge/Computer%20Networks-10B981?style=flat-square)
 
-Built cron-based background scheduler for missed-dose detection
+---
 
-Applied middleware-based backend architecture
+## 🚀 Featured Projects
 
-Developed adherence tracking logic with weekly reporting
+### 💊 [Medicine Companion](https://github.com/arun100-dev) — Medication Adherence Platform
 
-Managed frontend routing and state using React Hooks & Context API
+> A full-stack healthcare web app to help users manage medicines with structured scheduling, reminders, and adherence tracking.
 
-This project strengthened my understanding of backend security, modular architecture, and real-world API structuring.
+**Tech Stack:** `React` · `Node.js` · `Express.js` · `MongoDB`
 
-🎬 QuickShow – Movie Booking System
+| Engineering Highlight | Detail |
+|---|---|
+| 🔐 **Auth System** | Stateless JWT authentication with secure token handling |
+| 🗄️ **Database Design** | Secure MongoDB schemas with relational modeling via Mongoose |
+| ⏰ **Background Jobs** | Cron-based scheduler for missed-dose detection & alerts |
+| 🧱 **Architecture** | Middleware-based modular backend structure |
+| 📊 **Analytics** | Adherence tracking logic with weekly reporting |
+| ⚛️ **Frontend** | React Hooks & Context API for routing and global state |
 
-An end-to-end movie ticket booking application with user and admin workflows.
+> *Strengthened my understanding of backend security, modular architecture, and real-world API structuring.*
 
-Tech Stack: React | Node.js | Express | MongoDB
+---
 
-Engineering Highlights
+### 🎬 [QuickShow](https://github.com/arun100-dev) — Movie Booking System
 
-Built role-based authentication & protected routes
+> An end-to-end movie ticket booking application with separate user and admin workflows.
 
-Designed seat selection and booking validation logic
+**Tech Stack:** `React` · `Node.js` · `Express.js` · `MongoDB`
 
-Implemented RESTful APIs with proper data validation
+| Engineering Highlight | Detail |
+|---|---|
+| 🔑 **Auth & RBAC** | Role-based authentication with protected route middleware |
+| 🎭 **Booking Logic** | Seat selection engine with booking validation |
+| 🌐 **API Design** | RESTful APIs with input validation and error handling |
+| 🧩 **Frontend** | Reusable React components for scalable UI architecture |
 
-Structured frontend using reusable components
+> *Deepened my understanding of user flows, access control, and backend-frontend synchronization.*
 
-Helped me understand user flows, access control, and backend-frontend synchronization.
+---
 
-🧠 Technical Skills
-💻 Programming
+## 📈 Currently Levelling Up
 
-JavaScript
+```
+🔷  Advanced DSA        ████████░░░░  Practising daily
+🔷  System Design       ██████░░░░░░  Building fundamentals
+🔷  Backend Optimization █████░░░░░░  Writing scalable logic  
+🔷  Production Projects  ███████░░░░  Shipping real-world apps
+```
 
-C++
+---
 
-SQL
+## 🎯 What I Bring to a Team
 
-⚙️ Backend Engineering
+- ✅ **Backend-first thinking** — I architect APIs and data models before writing a single frontend line
+- ✅ **Security awareness** — JWT, role-based access, and input validation are non-negotiables for me
+- ✅ **System curiosity** — I dig into *why* things fail, not just *how* to fix them
+- ✅ **Clean code habits** — Modular structure, middleware separation, and reusable components
+- ✅ **Fast learner** — B.Tech in ECE → MERN fullstack, built and shipped 2 complete applications independently
 
-Node.js
+---
 
-Express.js
+## 📫 Let's Connect
 
-REST API Design
+I'm actively looking for **Software Development Engineer** opportunities (full-time / internship).
 
-JWT Authentication
+<div align="center">
 
-Middleware Architecture
+[![LinkedIn](https://img.shields.io/badge/Let's%20connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arun-sharma-1bb097318)
+[![Email Me](https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:janyalarun@gmail.com)
 
-MongoDB & Mongoose
+</div>
 
-Basic Background Jobs (Cron Scheduling)
+---
 
-🎨 Frontend Engineering
+<div align="center">
 
-React (Hooks)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" />
 
-Context API
+*"Systems thinking, clean code, and a hunger to build — that's what I bring to every project."*
 
-React Router
-
-Tailwind CSS
-
-Component-Based Architecture
-
-📚 Computer Science Fundamentals
-
-Data Structures & Algorithms
-
-Operating Systems (process & memory basics)
-
-DBMS (normalization, indexing concepts)
-
-Computer Networks (HTTP, TCP/IP fundamentals)
-
-📈 Currently Improving
-
-Advanced DSA for coding interviews
-
-System Design fundamentals
-
-Writing more optimized and scalable backend logic
-
-Building production-style projects
-
-🎯 Career Objective
-
-To begin my career as a Software Development Engineer where I can contribute to real-world products, collaborate with experienced engineers, and continuously grow my technical depth in scalable system development.
-
-📫 Connect With Me
-
-🔗 LinkedIn: https://www.linkedin.com/in/arun-sharma-1bb097318
-
-📧 Email: janyalarun@gmail.com
+</div>
