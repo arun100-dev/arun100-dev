@@ -8,7 +8,7 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Arun%20Sharma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arun-sharma-1bb097318)
-[![Email](https://img.shields.io/badge/Email-janyalarun%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:janyalarun@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-janyalarun%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:janyalarun@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-arun100--dev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arun100-dev)
 
 </div>
@@ -124,7 +124,7 @@ I'm actively looking for **Software Development Engineer** opportunities (full-t
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/Let's%20connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arun-sharma-1bb097318)
-[![Email Me](https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:janyalarun@gmail.com)
+[![Email Me](https://img.shields.io/badge/Gmail-Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:janyalarun@gmail.com)
 
 </div>
 
